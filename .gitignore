@@ -1,0 +1,19 @@
+﻿# Visual Studio 缓存和生成物（这些不该传上去）
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.user
+*.suo
+*.db
+*.opendb
+packages/
+
+# 系统文件
+Thumbs.db
+desktop.ini
